@@ -1,0 +1,10 @@
+Monto,Alumno,ResultadoEsperado
+1,no,La tasa ofrecida es 3%
+999,si,La tasa ofrecida es 4%
+1000,no,La tasa ofrecida es 6%
+10000,no,La tasa ofrecida es 5%
+10001,no,La tasa ofrecida es 7%
+999999999,si,La tasa ofrecida es 8%
+xyz,no,El monto debe ser un valor numérico
+18.50,no,El monto debe ser un valor entero
+0,no,El monto debe ser mayor a 0
